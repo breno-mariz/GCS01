@@ -1,4 +1,4 @@
-# Django Basic
+# Django Basico
 
 ## Ambiente de Dev
 
